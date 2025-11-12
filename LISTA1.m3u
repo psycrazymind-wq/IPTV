@@ -663,12 +663,30 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
 https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="INFANTIL" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR4800002NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" ,Caillou
+https://jmp2.uk/stvp-FR4800002NE
+#EXTINF:-1 group-title="Jeunesse" tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-j-fr.png" ,CANAL J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20241015T040231SQUARE.png" ,Charlotte aux Fraises
+https://jmp2.uk/stvp-FRBD1900012T7
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
+https://jmp2.uk/stvp-FR2600001PI
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png" ,Garfield
+https://jmp2.uk/stvp-FRBB4600001MQ
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20241106T142548SQUARE.png" ,Les Lapins Crétins: Invasion
+https://jmp2.uk/stvp-FRBD2300002CM
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR5000001UH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000001UH_20250326T013223SQUARE.png" ,LooLoo Kids
+https://jmp2.uk/stvp-FR5000001UH
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR90000160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20241106T142601SQUARE.png" ,Mr Bean Animated
+https://jmp2.uk/stvp-FR90000160
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR700001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20241106T142559SQUARE.png" ,Pocoyo
+https://jmp2.uk/stvp-FR700001VJ
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FRBD5100002NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20250729T045525SQUARE.png" ,SuperToons TV
+https://jmp2.uk/stvp-FRBD5100002NL
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FR1800002C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20250722T005829SQUARE.png" ,Wonderland Kids TV
+https://jmp2.uk/stvp-FR1800002C4
+#EXTINF:-1 group-title="Jeunesse" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241112T093119SQUARE.png" ,Xilam TV
+https://jmp2.uk/stvp-FRBA3300018I9
 #EXTINF:-1 group-title="INFANTIL" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
 https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
 
@@ -4657,6 +4675,7 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 
 
 
