@@ -158,7 +158,7 @@ https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="BELGICA" tvg-logo="https://www.brussels.be/sites/default/files/styles/agenda_image/public/grand-place-photo_1.jpg?h=4ee5dc99&itok=bau6R0iZ",CAM Grand Place
 #EXTVLCOPT:http-user-agent=IE
 https://livecam.brucity.be/LiveBrusselsWebcams/streams/vTm9wYDlwkAEO8mH1746783018793.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="BELGICA" tvg-logo="https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwt2ZpA0a1OlwHEZWjkwF3jFfsfslu9ePtapAfdaSKr5piKusNYTYvcL3YxnCGsMdN7_2gTXZEd81xB-kNwc1ogM336zKPRnzVgdhGFPArzEGo62vUusbmtxTp3Kf1frIxX3CgO9g=s1360-w1360-h1020-rw",CAM Place de Brouckère
+#EXTINF:-1 tvg-chno="2" group-title="BELGICA" tvg-logo="https://fr.wikipedia.org/wiki/Place_de_Brouckère#/media/Fichier:De_Brouckèreplein_Brussel_juli_2021.jpg",CAM Place de Brouckère
 #EXTVLCOPT:http-user-agent=IE
 https://livecam.brucity.be/LiveBrusselsWebcams/streams/fDdnnEmqOn6Kyy3E1701416388577.m3u8
 
@@ -4767,6 +4767,7 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 
 
 
