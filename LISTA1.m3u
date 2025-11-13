@@ -586,7 +586,7 @@ https://jmp2.uk/stvp-FR2600009UG
 https://jmp2.uk/stvp-FR300032ZK
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250722T005820SQUARE.png" ,Immersion - Crime & Justice
 https://jmp2.uk/stvp-FR600002ZR
-#EXTINF:-1 group-title="INFANTIL" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
 https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-id="AragonTV.es" tvg-logo="https://i.ibb.co/QjfcpDMC/100cine.png" ,100% CINÉMA
 https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
@@ -4791,6 +4791,7 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 
 
 
