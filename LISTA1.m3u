@@ -586,8 +586,22 @@ https://jmp2.uk/stvp-FR2600009UG
 https://jmp2.uk/stvp-FR300032ZK
 #EXTINF:-1 group-title="CANAIS FILMES" tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250722T005820SQUARE.png" ,Immersion - Crime & Justice
 https://jmp2.uk/stvp-FR600002ZR
-
-
+#EXTINF:-1 group-title="INFANTIL" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
+https://jmp2.uk/stvp-FR2600001PI
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="AragonTV.es" tvg-logo="https://i.ibb.co/QjfcpDMC/100cine.png" ,100% CINÉMA
+https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" ,ALLO CINÉ
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" ,ALLO CINÉ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png" ,BREF CINÉ
+https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png" ,CINÉ WESTERN
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/wh0Knbnm/Brefcine.png" ,BREF CINÉMA
+https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/TcpshFx/kuricine.png" ,KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 
 
@@ -781,8 +795,6 @@ https://jmp2.uk/stvp-FR4800002NE
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-id="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20241015T040231SQUARE.png" ,Charlotte aux Fraises
 https://jmp2.uk/stvp-FRBD1900012T7
-#EXTINF:-1 group-title="INFANTIL" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
-https://jmp2.uk/stvp-FR2600001PI
 #EXTINF:-1 group-title="INFANTIL" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png" ,Garfield
 https://jmp2.uk/stvp-FRBB4600001MQ
 #EXTINF:-1 group-title="INFANTIL" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20241106T142548SQUARE.png" ,Les Lapins Crétins: Invasion
@@ -1567,22 +1579,6 @@ https://uk2.streamingpulse.com/ssl/vcr2
 
 
 
-
-#EXTM3U
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="AragonTV.es" tvg-logo="https://i.ibb.co/QjfcpDMC/100cine.png" ,100% CINÉMA
-https://amg02162-amg02162c3-samsung-fr-8106.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02162-newenconnect-cinemachannel-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" ,ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" ,ALLO CINÉ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10840
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/yhRGCbH/Brefcin.png" ,BREF CINÉ
-https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png" ,CINÉ WESTERN
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/wh0Knbnm/Brefcine.png" ,BREF CINÉMA
-https://c3776ebb1c7742cb9c0191b41b8b2432.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_Brefcinema/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS FILMES" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/TcpshFx/kuricine.png" ,KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="BraziTV.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png" ,BraziTV
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png" ,TV Câmara
