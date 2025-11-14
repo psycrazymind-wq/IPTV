@@ -7,7 +7,7 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 
 #EXTINF:-1 tvg-chno="2" group-title="PORTUGAL" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+http://cord-cutter.net:8080/33QbGv/014458/164792
 
 #EXTINF:-1 tvg-chno="3" group-title="PORTUGAL" tvg-id="RTP2.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -20,6 +20,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 tvg-chno="4" group-title="PORTUGAL" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+http://cord-cutter.net:8080/33QbGv/014458/78526
 
 #EXTINF:-1 tvg-chno="5" group-title="PORTUGAL" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
 #EXTVLCOPT:http-user-agent=IE
@@ -694,7 +695,8 @@ http://cord-cutter.net:8080/33QbGv/014458/167748
 http://cord-cutter.net:8080/33QbGv/014458/167749
 #EXTINF:-1 group-title="DESPORTO" tvg-id="nhl.network.usa.us" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://w7.pngwing.com/pngs/354/277/png-transparent-boondoggle-eleven-sports-network-chinese-basketball-association-sports-league-two-eleven-came-miscellaneous-television-text-thumbnail.png" ,PT: ELEVEN SPORTS 5 HD
 http://cord-cutter.net:8080/33QbGv/014458/167750
-
+#EXTINF:-1 group-title="DESPORTO" tvg-id="nhl.network.usa.us" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIYljUBF2rXzB0yYZVEPY1l8zHp.jpg" ,PT BENFICA TV HD  (P)
+http://cord-cutter.net:8080/33QbGv/014458/136726
 
 
 
