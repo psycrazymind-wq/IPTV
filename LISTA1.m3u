@@ -249,6 +249,333 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 
 
+
+
+
+
+
+
+######################################   FRANÇA    ################################
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20250826T004904SQUARE.png" ,BFM TV
+https://jmp2.uk/stvp-FRBD410000783
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600004SS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600004SS_20250415T020856SQUARE.png" ,Euronews EN DIRECT
+https://jmp2.uk/stvp-FR2600004SS
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1400003Y0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400003Y0_20241015T040216SQUARE.png" ,BFM 2
+https://jmp2.uk/stvp-FR1400003Y0
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300005WY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300005WY_20241015T042807SQUARE.png" ,RMC TALK INFO
+https://jmp2.uk/stvp-FR300005WY
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20241015T040333SQUARE.png" ,Le Figaro TV
+https://jmp2.uk/stvp-FRBC1400002JN
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1800005X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800005X0_20241210T052753SQUARE.png" ,TV5 Monde Info
+https://jmp2.uk/stvp-FR1800005X0
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4100006OC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20241015T040218SQUARE.png" ,BFM Business
+https://jmp2.uk/stvp-FRBD4100006OC
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4100010ZZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20241015T042850SQUARE.png" ,Tech & Co
+https://jmp2.uk/stvp-FRBD4100010ZZ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD190001055" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20250422T045314SQUARE.png" ,CNN Headlines
+https://jmp2.uk/stvp-FRBD190001055
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3400002VW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" ,Sky News International
+https://jmp2.uk/stvp-FR3400002VW
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1400004VF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20250603T004911SQUARE.png" ,Bloomberg TV+
+https://jmp2.uk/stvp-FR1400004VF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" ,INFOSPORT+
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TRACESportStars.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-sport-stars-fr.png" ,TRACE SPORTS STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="MotorVisionTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-tv-fr.png" ,MOTORVISION TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR200016Y5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR200016Y5_20250422T103213SQUARE.png" ,L'Equipe
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1100002RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100002RF_20250422T045320SQUARE.png" ,AFTER FOOT TV
+https://jmp2.uk/stvp-FR1100002RF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20250513T005806SQUARE.png" ,FIFA+
+https://jmp2.uk/stvp-FRBA3300037Y7
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20241015T042802SQUARE.png" ,RMC MECANIC
+https://jmp2.uk/stvp-FR300003ZB
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20241015T040258SQUARE.png" ,Drive TV
+https://jmp2.uk/stvp-FRBD3600001BQ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4100013LN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20241015T040359SQUARE.png" ,Motor Racing
+https://jmp2.uk/stvp-FRBD4100013LN
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD2900001M3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2900001M3_20241015T040416SQUARE.png" ,World Poker Tour
+https://jmp2.uk/stvp-FRBD2900001M3
+#EXTINF:-1 group-title="FRANÇA" tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-j-fr.png" ,CANAL J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR4800002NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" ,Caillou
+https://jmp2.uk/stvp-FR4800002NE
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR5000001UH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR5000001UH_20250326T013223SQUARE.png" ,LooLoo Kids
+https://jmp2.uk/stvp-FR5000001UH
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR700001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20241106T142559SQUARE.png" ,Pocoyo
+https://jmp2.uk/stvp-FR700001VJ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png" ,Garfield
+https://jmp2.uk/stvp-FRBB4600001MQ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1800002C4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800002C4_20250722T005829SQUARE.png" ,Wonderland Kids TV
+https://jmp2.uk/stvp-FR1800002C4
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20241112T093119SQUARE.png" ,Xilam TV
+https://jmp2.uk/stvp-FRBA3300018I9
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20241015T040231SQUARE.png" ,Charlotte aux Fraises
+https://jmp2.uk/stvp-FRBD1900012T7
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20241106T142548SQUARE.png" ,Les Lapins Crétins: Invasion
+https://jmp2.uk/stvp-FRBD2300002CM
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD5100002NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20250729T045525SQUARE.png" ,SuperToons TV
+https://jmp2.uk/stvp-FRBD5100002NL
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600001PI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png" ,Famille - Rakuten TV
+https://jmp2.uk/stvp-FR2600001PI
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD5100001ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png" ,ADN
+https://jmp2.uk/stvp-FRBD5100001ZA
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD19000095S" tvg-logo="https://static.wixstatic.com/media/6ba705_157c0663b69041e0a7c5b543e83f53e0~mv2.png" ,CINE WESTERN
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB340000115" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,EMOTION'L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC800001X0" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,FREQUENCE NOVELAS
+https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB4600002K5" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SCREAM'IN
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3000139Z" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300009JQ" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SONY ONE HITS COMEDIE
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300011G9" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SONY ONE FAVORIS
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3000082K" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SONY ONE SERIES COMEDIES
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3000125U" tvg-logo="https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png" ,SONY ONE SERIES THRILLER
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600007CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600007CB_20250415T020909SQUARE.png" ,Top Films - Rakuten TV
+https://jmp2.uk/stvp-FR2600007CB
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3700001AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20241210T052728SQUARE.png" ,Box Office Teens
+https://jmp2.uk/stvp-FR3700001AG
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD2300001UQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300001UQ_20250121T012933SQUARE.png" ,Family Club
+https://jmp2.uk/stvp-FRBD2300001UQ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR220000105" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png" ,Action Totale
+https://jmp2.uk/stvp-FR220000105
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA1000009KO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20241106T142654SQUARE.png" ,Brefcinema
+https://jmp2.uk/stvp-FRBA1000009KO
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB39000020C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20250902T003655SQUARE.png" ,Ciné Nanar
+https://jmp2.uk/stvp-FRBB39000020C
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300021ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300021ME_20250527T014703SQUARE.png" ,Wild Side TV
+https://jmp2.uk/stvp-FRBA3300021ME
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD3900001QP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900001QP_20241015T040203SQUARE.png" ,Allociné
+https://jmp2.uk/stvp-FRBD3900001QP
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC9000041F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20250715T004338SQUARE.png" ,Trailers
+https://jmp2.uk/stvp-FRBC9000041F
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600003OZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600003OZ_20250121T012912SQUARE.png" ,Films Romantiques - Rakuten TV
+https://jmp2.uk/stvp-FR2600003OZ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB340000115" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20241015T035931SQUARE.png" ,Emotion'L
+https://jmp2.uk/stvp-FRBB340000115
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB50000016B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png" ,Runtime
+https://jmp2.uk/stvp-FRBB50000016B
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR26000068C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000068C_20241022T044043SQUARE.png" ,Comédies - Rakuten TV
+https://jmp2.uk/stvp-FR26000068C
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20250708T031656SQUARE.png" ,Ciné Western
+https://jmp2.uk/stvp-FRBD19000095S
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20241015T042823SQUARE.png" ,Scream'IN
+https://jmp2.uk/stvp-FRBB4600002K5
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3700003N4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" ,Box Office Drama
+https://jmp2.uk/stvp-FR3700003N4
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1800003VF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20241210T052746SQUARE.png" ,Shadowz
+https://jmp2.uk/stvp-FR1800003VF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250708T031653SQUARE.png" ,Box Office Action
+https://jmp2.uk/stvp-FR370000288
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600005LH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600005LH_20241015T040143SQUARE.png" ,Drames - Rakuten TV
+https://jmp2.uk/stvp-FR2600005LH
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600002X9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20240827T040439SQUARE.png" ,Films d'action - Rakuten TV
+https://jmp2.uk/stvp-FR2600002X9
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png" ,Faites entrer l'accusé
+https://jmp2.uk/stvp-FR1400002XF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB49000033R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20250902T003711SQUARE.png" ,Homicide
+https://jmp2.uk/stvp-FRBB49000033R
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD39000039D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000039D_20241022T051721SQUARE.png" ,Scène de Crime
+https://jmp2.uk/stvp-FRBD39000039D
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2600009UG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600009UG_20241126T043134SQUARE.png" ,Crime - Rakuten TV
+https://jmp2.uk/stvp-FR2600009UG
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300032ZK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300032ZK_20250304T015622SQUARE.png" ,IntoCrime
+https://jmp2.uk/stvp-FR300032ZK
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR600002ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250722T005820SQUARE.png" ,Immersion - Crime & Justice
+https://jmp2.uk/stvp-FR600002ZR
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC900003KP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20250902T003719SQUARE.png" ,Y'a que la vérité qui compte
+https://jmp2.uk/stvp-FRBC900003KP
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300035UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300035UK_20250902T003714SQUARE.png" ,Juste Pour Rire
+https://jmp2.uk/stvp-FRBA3300035UK
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20250218T040019SQUARE.png" ,RMC Story
+https://jmp2.uk/stvp-FRBD41000097I
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4100008QS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20250218T040017SQUARE.png" ,RMC Découverte
+https://jmp2.uk/stvp-FRBD4100008QS
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" ,RMC Wow
+https://jmp2.uk/stvp-FR300001M1
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" ,RMC MYSTERE
+https://jmp2.uk/stvp-FR300006GF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3600002W2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600002W2_20241106T142619SQUARE.png" ,Familles en Scène
+https://jmp2.uk/stvp-FR3600002W2
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB490000412" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20241015T042740SQUARE.png" ,Motus
+https://jmp2.uk/stvp-FRBB490000412
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD300000170" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD300000170_20241030T154345SQUARE.png" ,Ardivision
+https://jmp2.uk/stvp-FRBD300000170
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4100002R7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100002R7_20241015T042758SQUARE.png" ,Popcorn
+https://jmp2.uk/stvp-FRBD4100002R7
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA33000234L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000234L_20241015T035938SQUARE.png" ,FailArmy
+https://jmp2.uk/stvp-FRBA33000234L
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA10000029E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA10000029E_20241015T042540SQUARE.png" ,People Are Awesome
+https://jmp2.uk/stvp-FRBA10000029E
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD5100003TP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20241015T040303SQUARE.png" ,Epicurieux
+https://jmp2.uk/stvp-FRBD5100003TP
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR500003PJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR500003PJ_20250408T021641SQUARE.png" ,H2O & Friends
+https://jmp2.uk/stvp-FR500003PJ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20250422T045312SQUARE.png" ,MGG FAST
+https://jmp2.uk/stvp-FRBC3900003ZH
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2200002HV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2200002HV_20250729T045534SQUARE.png" ,Fireplace Vibes
+https://jmp2.uk/stvp-FR2200002HV
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20241106T142647SQUARE.png" ,J'irai dormir chez vous
+https://jmp2.uk/stvp-FRBD4800001P4
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20241015T042814SQUARE.png" ,RMC alerte secours
+https://jmp2.uk/stvp-FR30000271
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC90000220" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20250819T032502SQUARE.png" ,Enquêtes de Choc
+https://jmp2.uk/stvp-FRBC90000220
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR4200001BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250513T005811SQUARE.png" ,La Maison France 5
+https://jmp2.uk/stvp-FR4200001BN
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR700002UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20250408T021842SQUARE.png" ,Real Life
+https://jmp2.uk/stvp-FR700002UP
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300004J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" ,BFM Grands Reportages
+https://jmp2.uk/stvp-FR300004J5
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png" ,Doc Story
+https://jmp2.uk/stvp-FR1200001N2
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD3900004PH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900004PH_20241015T042816SQUARE.png" ,Reportages by Spica
+https://jmp2.uk/stvp-FRBD3900004PH
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20241015T042847SQUARE.png" ,Tahiti TV
+https://jmp2.uk/stvp-FRBB49000059E
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20250722T005817SQUARE.png" ,Destination Nature
+https://jmp2.uk/stvp-FRBC4000001IO
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB4900002D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20241015T042746SQUARE.png" ,NatureTime
+https://jmp2.uk/stvp-FRBB4900002D4
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC3900004DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20250722T005812SQUARE.png" ,Love the Planet
+https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" ,EURONEWS FR
+https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="RMCTalkInfo.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKINFOcoul.png" ,RMC TALK INFO
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="IDF1.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" ,20 MINUTES TV IDF
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Weo.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" ,WÃ‰O TV
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" ,WÃ‰O PICARDIE
+https://live-weo.digiteka.com/1189023466/index.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Melody.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/melody-fr.png" ,MÃ‰LODY
+https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="ClubbingTV.fr" tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" ,GÃ‰NÃ‰RATIONS TV
+https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png" ,TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-latina-fr.png" ,TRACE LATINA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="MadrasFMTV.fr" tvg-logo="https://i.ibb.co/BwD72ps/madras.png" ,MADRAS FM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC2100001YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20241015T040412SQUARE.png" ,Vevo Pop
+https://jmp2.uk/stvp-FRBC2100001YY
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC2100002JA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20241015T040410SQUARE.png" ,Vevo Hip-Hop & R&B
+https://jmp2.uk/stvp-FRBC2100002JA
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD1900013CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png" ,Vevo Rétro
+https://jmp2.uk/stvp-FRBD1900013CB
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3900001AC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20241105T032704SQUARE.png" ,K-POP by CJ ENM
+https://jmp2.uk/stvp-FR3900001AC
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png" ,Cool Summer Channel
+https://jmp2.uk/stvp-FR2500001BS
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20241015T040425SQUARE.png" ,Ã?motion
+https://jmp2.uk/stvp-FRBC900001LB
+#EXTINF:-1 group-title="FRANÇA" tvg-id="RMCMecanic.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICcoul.png" ,RMC MECANIC
+https://jmp2.uk/stvp-FR300003ZB
+#EXTINF:-1 group-title="FRANÇA" tvg-id="MyZenTV.fr" tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" ,MY ZEN TV
+https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="KTO.fr" tvg-logo="https://i.ibb.co/883phd1/ktook.png" ,KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR300010HD" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" ,SONY ONE THE BLACKLIST
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC3900003ZH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mgg-tv-fr.png" ,MGG E-SPORT
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png" ,Plus belle la vie
+https://jmp2.uk/stvp-FRBD37000020Y
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3600001R1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20250624T020538SQUARE.png" ,Un si grand soleil
+https://jmp2.uk/stvp-FR3600001R1
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC4700002RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20241015T040200SQUARE.png" ,Alerte à Malibu
+https://jmp2.uk/stvp-FRBC4700002RF
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC800001X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20241025T153329SQUARE.png" ,Fréquence Novelas
+https://jmp2.uk/stvp-FRBC800001X0
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD19000115C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000115C_20241015T040247SQUARE.png" ,Degrassi
+https://jmp2.uk/stvp-FRBD19000115C
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC47000054S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC47000054S_20241015T040346SQUARE.png" ,Les filles d'à côté
+https://jmp2.uk/stvp-FRBC47000054S
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBD15000024B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20241015T042751SQUARE.png" ,Passion Novelas
+https://jmp2.uk/stvp-FRBD15000024B
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300031ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20241015T042657SQUARE.png" ,Stormcast Novelas
+https://jmp2.uk/stvp-FRBA3300031ZC
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC4700001XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250624T021408SQUARE.png" ,Génération Sitcoms
+https://jmp2.uk/stvp-FRBC4700001XG
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBC14000010C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20241015T042852SQUARE.png" ,Tele.Novela
+https://jmp2.uk/stvp-FRBC14000010C
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20250819T032118SQUARE.png" ,Les riches pleurent aussi
+https://jmp2.uk/stvp-FRBA3300022OA
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1100001V1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20250513T005820SQUARE.png" ,Passion Bollywood
+https://jmp2.uk/stvp-FR1100001V1
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR360000680" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR360000680_20250805T005522SQUARE.png" ,Zee Magic
+https://jmp2.uk/stvp-FR360000680
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" ,TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" ,M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" ,W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" ,TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" ,TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" ,GULLI
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+#EXTINF:-1 group-title="FRANÇA" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" ,LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="NOVO19.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/novo19-fr.png" ,NOVO 19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" ,TF1 SERIES FILMS
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" ,6TER
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" ,RMC STORY
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" ,RMC DÃ‰COUVERTE
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png" ,RMC LIFE
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FRBB3900001PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20241015T040912SQUARE.png" ,Chefclub TV
+https://jmp2.uk/stvp-FRBB3900001PZ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR3700004HZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700004HZ_20250307T151940SQUARE.png" ,Invitation au voyage
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1300003HM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300003HM_20250811T172926SQUARE.png" ,TV5 MONDE+ Chefs
+https://jmp2.uk/stvp-FR1300003HM
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR1800004EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20241015T160012SQUARE.png" ,TV5 Monde Voyage
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:-1 group-title="FRANÇA" tvg-id="FR600001I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250805T005513SQUARE.png" ,Ailleurs - Destination Luxe
+https://jmp2.uk/stvp-FR600001I2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #################Internacionais################
 #Noticias
 
@@ -4826,6 +5153,7 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 
 
 
