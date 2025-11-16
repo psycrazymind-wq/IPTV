@@ -76,7 +76,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTVLCOPT:http-referrer=https://opto.sic.pt/
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:group-title="PORTUGAL",Sic Novelas
+#EXTINF:group-title="PORTUGAL" tvg-logo="https://quinto-canal.com/wp-content/uploads/2023/03/SIC-Novelas-logo.jpg" ,Sic Novelas
 http://predador.xyz:80/play/Eb3T6IIakcZxAVRmDlwkGPH6HyvuSXUHebBEoxoNrG8Uo1R2Tn0LATt1uLKxXvtL
 
 #EXTINF:-1 tvg-chno="16" group-title="PORTUGAL" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
@@ -7267,6 +7267,7 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 group-title="OUTROS E BACKUP" tvg-id="Fox.tr" tvg-name="Euro Tv" tvg-logo="https://i.ibb.co/pKt53kX/dl1.png" ,📻🎶📺🎥Video Player Checker
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 
 
 
