@@ -116,26 +116,7 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-chno="25" group-title="PORTUGAL" tvg-id="RFPtv.pt" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="26" group-title="PORTUGAL" tvg-id="CamoesTV.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CamoesTV.png",Camões TV
-https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="CanalMacau.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (PT)
-https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TDMMacauSatellite.mo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
-https://globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
-#https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV Zimbo
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVM.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
-http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVMInternacional.mz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png",TVM Internacional
-http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="KuriakosTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/canal-kuriakos-tv-logo-256x256.png",Kuriakos TV
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
